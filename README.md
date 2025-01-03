@@ -1,2 +1,2 @@
 # next-app
-next-app学习用
+learn next-app
